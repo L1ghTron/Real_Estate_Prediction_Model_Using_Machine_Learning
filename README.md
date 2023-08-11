@@ -1,4 +1,4 @@
-# Real_Estate_Prediction_Model_Using_Machine_Learning
+# Real Estate Prediction Model Using Machine Learning
 
 Hi, this repository is for the project on predicting housing prices using the Boston Dataset that can be found on kaggle.
 
