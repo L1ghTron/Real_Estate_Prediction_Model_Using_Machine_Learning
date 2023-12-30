@@ -31,9 +31,6 @@ To execute the notebook:
 ## Contributing
 Contributions to improve this project are welcome. Please feel free to fork the repository and submit your pull requests.
 
-## License
-This project is open-sourced under the MIT License.
-
 ## Contact
 For any queries or suggestions, please feel free to contact us through GitHub.
 
